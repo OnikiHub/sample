@@ -15,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
 =======
     System.out.pritnln();
 >>>>>>> a
+     System.out.pritnln(kikikjnnjninoininoinoinoinoinoinionoinononoininoi);
 }
