@@ -17,5 +17,5 @@ public class MainActivity extends AppCompatActivity {
 >>>>>>> a
      System.out.pritnln(kikikjnnjninoininoinoinoinoinoinionoinononoininoi);
 =======
-     ///System.out.println(pokekasutero);
+     ///System.out.println(pokekakao);
 }
