@@ -21,7 +21,6 @@ public class MainActivity extends AppCompatActivity {
      ///System.out.println(pokekakao);
 =======
      System.out.println(pokekayamero);
-     System.out.println(pokekasutero);
 
 
 }
